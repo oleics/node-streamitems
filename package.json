@@ -1,0 +1,18 @@
+{
+  "name": "streamitems",
+  "version": "0.0.0",
+  "description": "Simple stream parser. Emits 'item' and 'garbage'. Created to detect single JSON items in a stream, but might be usefull for other formats.",
+  "author": {
+    "name": "Oliver Leics",
+    "email": "oliver.leics@gmail.com"
+  },
+  "main": "./streamitems",
+  "directories": {
+  },
+  "engines": {"node": ">= 0.4.x"},
+  "dependencies": {},
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
